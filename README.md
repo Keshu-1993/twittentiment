@@ -10,4 +10,4 @@ The model gets saved in daved_models folder and if run again, it picks the lates
 In order to run the classification in streamlit, run:
 ```
 streamlit run stapi.py
-'''
+```
